@@ -1,6 +1,6 @@
 {
   "name": "@antv/f2-canvas",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "微信小程序 F2 图表组件",
   "main": "miniprogram_dist/index.js",
   "scripts": {
@@ -59,6 +59,6 @@
     "eslint-plugin-promise": "^3.8.0"
   },
   "dependencies": {
-    "@antv/wx-f2": "^1.1.0"
+    "@antv/wx-f2": "^1.1.4"
   }
 }
